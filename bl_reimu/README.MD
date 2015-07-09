@@ -12,6 +12,7 @@ and replaces her portraits with recolored verson.
 
 1. Download thcrap.
 2. Run the configurer.
-3. Select the "bl_reimu" patch after any language patches if you want said language patches (e.g. lang_ru -> bl_reimu).
+3. Select the "bl_reimu" patch *before* any language patches (e.g. bl_reimu -> lang_ru ).<br />
+Since you replace the title screen, any transparent translations would be overwritten otherwise.
 4. Once the shortcuts have been generated, you can move those shortcuts anywhere.
 5. Double click on the shortcut to begin the game!
