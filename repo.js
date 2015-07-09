@@ -1,7 +1,9 @@
 {
 	"contact": "hiroaritillwhen@gmail.com",
 	"id": "UnKnwn",
-	"patches": {},
+	"patches": {
+		"bl_reimu": "BlueReimu: Sprite and portraits replacement."
+	},
 	"servers": [
 		"https://raw.githubusercontent.com/Zrrg/UnKnwn/master/"
 	],
