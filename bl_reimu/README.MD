@@ -1,6 +1,8 @@
 #BlueReimu
 [Return to Home](https://github.com/Zrrg/UnKnwn)
-This patch replaces Reimu player sprite into PoFV player 2 blue sprite, and replaces her portraits with recolored verson.
+
+This patch replaces Reimu player sprite into PoFV player 2 blue sprite,<br />
+ and replaces her portraits with recolored verson.
 ![title00a](https://cloud.githubusercontent.com/assets/11311379/8594519/2990922a-264a-11e5-91c8-41a5e9bad2f3.png)
 
 ##Currently supported games:
