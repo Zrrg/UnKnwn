@@ -4,4 +4,4 @@ These patches use the thcrap patching engine which allows automatic updating and
 
 ##Patches:
 
-**[BlueReimu](https://github.com/Zrrg/UnKnwn/bl_reimu/)**: Replaces your old read miko into something more cool. Includes character portraits and in-game sprite.
+**[BlueReimu](https://github.com/Zrrg/UnKnwn/bl_reimu/)**: Replaces your old red miko into something more cool. Includes character portraits and in-game sprite.
