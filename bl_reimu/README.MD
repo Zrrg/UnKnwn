@@ -10,7 +10,7 @@ and replaces her portraits with recolored verson.
 
 ##Instructions
 
-1. Download thcrap.
+1. Download [thcrap](https://thpatch.net/wiki/Touhou_Patch_Center:Download).
 2. Run the configurer.
 3. Select the "bl_reimu" patch *before* any language patches (e.g. bl_reimu -> lang_ru ).<br />
 Since you replace the title screen, any transparent translations would be overwritten otherwise.
