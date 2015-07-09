@@ -7,7 +7,7 @@ and replaces her portraits with recolored verson.
 
 ##Currently supported games:
 * TH10
-
+* TH11
 ##Instructions
 
 1. Download [thcrap](https://thpatch.net/wiki/Touhou_Patch_Center:Download).
