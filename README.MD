@@ -2,6 +2,6 @@
 This is repository for Touhou games modifications. 
 These patches use the thcrap patching engine which allows automatic updating and the ability to not have to modify game files.
 
-Patches:
+##Patches:
 
-[BlueReimu](https://github.com/Zrrg/UnKnwn/b_reimu/): Replaces your old read miko into something more cool. Includes character portraits and in-game sprite.
+**[BlueReimu](https://github.com/Zrrg/UnKnwn/bl_reimu/)**: Replaces your old read miko into something more cool. Includes character portraits and in-game sprite.
