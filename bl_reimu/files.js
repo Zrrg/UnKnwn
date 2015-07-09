@@ -23,5 +23,16 @@
 	"th11/face/pl00/face_pl00sw.png": 1713734088,
 	"th11/player/pl00/pl00.png": 3663168342,
 	"th11/title/sl_pl00.png": 4166729279,
-	"th11/title/title00a.png": 674641006
+	"th11/title/title00a.png": 674641006,
+	"th12/face/pl00/face_pl00an.png": 1762789269,
+	"th12/face/pl00/face_pl00dp.png": 2971865736,
+	"th12/face/pl00/face_pl00hp.png": 3260248181,
+	"th12/face/pl00/face_pl00n2.png": 592717628,
+	"th12/face/pl00/face_pl00no.png": 3160404748,
+	"th12/face/pl00/face_pl00pr.png": 2980405961,
+	"th12/face/pl00/face_pl00sp.png": 2155765241,
+	"th12/face/pl00/face_pl00sw.png": 3342361128,
+	"th12/player/pl00/pl00.png": 2411198151,
+	"th12/title/sl_pl00.png": 2849715142,
+	"th12/title/title00a.png": 955815600
 }
