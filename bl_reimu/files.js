@@ -38,7 +38,7 @@
 	"th13/face/pl00/face_pl00bs.png": 1932087640,
 	"th13/face/pl00/title_pl00.png": 3777942789,
 	"th13/player/pl00/pl00.png": 2411198151,
-	"th13/title/title00a.png": 3326007354,
+	"th13/title/title00a.png": 3624165049,
 	"th14/face/pl00/face_pl00bs.png": 3888529439,
 	"th14/face/pl00/face_pl00bs2.png": 3220248634,
 	"th14/face/pl00/title_pl00.png": 3484150275,
