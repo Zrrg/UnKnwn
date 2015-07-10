@@ -9,6 +9,9 @@ and replaces her portraits with recolored verson.
 * Th10
 * Th11
 * Th12
+* Th13
+* Th15
+
 ##Instructions
 
 1. Download [thcrap](https://thpatch.net/wiki/Touhou_Patch_Center:Download).
