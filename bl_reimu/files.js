@@ -38,6 +38,7 @@
 	"th13/face/pl00/face_pl00bs.png": 636977278,
 	"th13/face/pl00/title_pl00.png": 30939457,
 	"th13/player/pl00/pl00.png": 4061018133,
+	"th13/stgenm/stage07/stg4aenm.png": 3645254143,
 	"th13/title/title00a.png": 1471153235,
 	"th14/face/pl00/face_pl00bs.png": 3888529439,
 	"th14/face/pl00/face_pl00bs2.png": 3220248634,
