@@ -1,5 +1,5 @@
 {
-	"README.MD": 4282675693,
+	"README.MD": 1813895505,
 	"patch.js": 97837706,
 	"th16/face/pl02/face_pl02an.png": 197827673,
 	"th16/face/pl02/face_pl02bs.png": 249188188,
