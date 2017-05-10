@@ -1,4 +1,4 @@
-#UntannedCirno
+#Untanned Cirno Sprites [Made by xJeePx]
 [Return to Home](https://github.com/Zrrg/UnKnwn)
 
 This patch replaces tanned Cirno with simple Cirno.<br/>
